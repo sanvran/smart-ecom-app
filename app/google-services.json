@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "656533814783",
+    "project_id": "smartjeweller-d4666",
+    "storage_bucket": "smartjeweller-d4666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656533814783:android:f7fcce0b151fd1ac857bca",
+        "android_client_info": {
+          "package_name": "com.configoo.smartjewellerin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656533814783-pngsvcuk3v0or11ka8bpni66i7t4nulv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.configoo.smartjewellerin",
+            "certificate_hash": "73e4db95c628cc8a85f9d993604a416f7aca8591"
+          }
+        },
+        {
+          "client_id": "656533814783-60qk00tb7fd0cb7c5hqufhknpons8o3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4Cq1bej7eYCKkXg8xsgqqfPL4fqaoyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656533814783-60qk00tb7fd0cb7c5hqufhknpons8o3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
